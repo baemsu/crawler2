@@ -1,7 +1,7 @@
 # function_app.py
 # ------------------------------------------------------------
 # Azure Functions (Python v2) - HTTP 트리거로 TechCrunch AI 카테고리 "오늘(KST)" 기사 크롤링
-# 엔드포인트: GET/POST https://<app>.azurewebsites.net/api/ai-today?code=...
+# 엔드포인트: GET/POST https://baemsutest-gdcaamfshgg9ayfy.canadacentral-01.azurewebsites.net/api/ai-today?code=
 # 쿼리/바디 파라미터:
 #   - date: "YYYY-MM-DD" (옵션, 기본=오늘 KST)
 #   - limit: int (옵션, 기본=40, 범위 1~80)
