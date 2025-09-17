@@ -1,3 +1,4 @@
 azure-functions
 requests
 beautifulsoup4
+tzdata
